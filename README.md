@@ -1,3 +1,5 @@
+<h1>Juego del Número Secreto </h1>
+
 Este repositorio contiene la implementación de un juego llamado Número Secreto, realizado como parte de una actividad de Alura Latam. El proyecto incluye los archivos necesarios para ejecutar el juego, como el código JavaScript, los estilos CSS y los recursos de imagen.
 
 Puntos Principales de Funcionalidad:
