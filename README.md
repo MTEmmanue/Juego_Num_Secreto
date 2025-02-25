@@ -11,4 +11,4 @@ Puntos Principales de Funcionalidad:
 Tecnologías Utilizadas
 - JavaScript
 - HTML
-   CSS
+- CSS
